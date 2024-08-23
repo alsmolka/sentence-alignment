@@ -1,4 +1,4 @@
-# Similarity metrics in sentence alignment
+# Similarity Metrics in Sentence Alignment
 
 This repo contains code for our study on similarity metrics in sentence alignment for paraphrased corpora. 
 
